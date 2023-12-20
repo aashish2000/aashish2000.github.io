@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Aashish's Portfolio # Website name
+baseURL: 'https://aashish2000.github.io' # Website URL
 
 ############################
 ## LANGUAGE
@@ -36,8 +36,8 @@ outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 75
+  resampleFilter: Lanczos
+  quality: 100
   anchor: smart
 timeout: 600000
 taxonomies:
