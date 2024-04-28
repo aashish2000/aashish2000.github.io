@@ -127,7 +127,7 @@ As a member of the [PIKE Research Group](https://pike.psu.edu), I work on enhanc
 
 <!-- I'm also keen on exploring the security implications of domain-specific generative models such as copyright protection. Particularly, I am interested in embedding-level text watermarking strategies that are robust to adversarial attacks with minimal impact to generation quality.  -->
 
-In the past, I have had the oppotunity to do internships at **The Washington Post**, **Ford Motor Company** and other Computer Vision startups. I'm always *open to collaboration* and research discussions on topics related to Vision & Language tasks. Feel free to drop me an email or ping me on LinkedIn if you wish to get in touch with me! 
+In the past, I have had the opportunity to do internships at **The Washington Post**, **Ford Motor Company**,  and other Computer Vision startups. I'm always *open to collaboration* and research discussions on topics related to Vision & Language tasks. Feel free to drop me an email or ping me on LinkedIn if you wish to get in touch with me! 
 
 <!-- Some of my internship projects such as Factuality Evaluation of LLMs on QA tasks, Head Tracking-based Ticketing Solutions for Public Transit, AR-enabled interactive learning tools, etc.  -->
 
