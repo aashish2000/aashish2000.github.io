@@ -10,7 +10,7 @@ For selecting a number, keep your pointer on a number and bring it closer. Once 
 
 The area of the bounding boxes of your hand increases as the hand comes closer to the camera and vice versa when you pull you hand farther away. This gives the select and drop functionality.
 
-{{< video "seedoku-demo.m4v" "my-5" >}}
+{{< video "seedoku-demo.mp4" "my-5" >}}
 
 The Hand Tracking functionality is achieved through a SSD based Hand Position detector. This detector was adapted from the open source Mediapipe Framework by Google Research. This model is based on TFLite, and is capable of performing Hand Detection at around 30fps on modern Edge Devices.
 
