@@ -27,6 +27,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Clean public directory
+        run: rm -rf ./public && mkdir ./public
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
