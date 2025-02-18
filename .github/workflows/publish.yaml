@@ -62,6 +62,9 @@ jobs:
 
       - name: Remove Symlinks
         run: find ./public -type l -exec rm {} \;
+
+      - name: Fix file permissions
+        run: chmod -R 755 ./public
         
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -83,6 +86,9 @@ jobs:
         with:
           name: github-pages
           path: ./public
+
+      - name: Debug Verify downloaded artifact
+        run: ls -lh ./public
 
       - name: Deploy to GitHub Pages
         id: deployment
