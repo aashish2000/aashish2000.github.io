@@ -53,6 +53,12 @@ jobs:
 
       - name: Debug List public directory
         run: ls -R ./public
+
+      - name: Compress large assets
+        run: find ./public -size +10M -exec gzip {} \;
+
+      - name: Remove Symlinks
+        run: find ./public -type l -exec rm {} \;
         
       - name: Upload artifact
         uses: actions/upload-artifact@v4
