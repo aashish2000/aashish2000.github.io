@@ -32,6 +32,7 @@ interests:
   - Computer Vision
   - Natural Language Processing
   - Multi-modal Generative AI
+  - Linguistics and AI
 
 # Education to show in About widget
 education:
@@ -119,10 +120,15 @@ highlight_name: true
 
 <div style="text-align: justify">
 
-Hello! I'm a fourth-year PhD Candidate at the [Penn State College of Information Sciences and Technology](https://ist.psu.edu), advised by [Prof. Dongwon Lee](https://pike.psu.edu/dongwon/). My research interests lie at the intersection of Vision & Language, with a focus on multi-modal generative models and 3D Computer Vision. Prior to my PhD, I received my B.E in Computer Science and Engineering from [SSN College of Engineering](https://www.ssn.edu.in), Chennai, India.
+Hello! I'm a fourth-year PhD Candidate at the [Penn State College of Information Sciences and Technology](https://ist.psu.edu), advised by [Prof. Dongwon Lee](https://pike.psu.edu/dongwon/). As a member of the [PIKE Research Group](https://pike.psu.edu), my research is focused on enhancing the Visio-linguistic grounding and reasoning capabilities of Multi-modal Large Language Models (MLLM). Particularly, I'm interested in understanding the challenges MLLMs face while interpreting cross-modal relationships in domain-specific generation tasks. I'm also exploring the prevalence of AI-generated content across online discourses such as news media, to better inform usage and detection strategies of these models.
 
-As a member of the [PIKE Research Group](https://pike.psu.edu), my research is focused on enhancing the linguistic grounding and domain-oriented reasoning capabilities of Multi-modal Large Language Models (MLLM). I'm also interested in exploring the prevalence of AI-Generated content across different types of media, to better inform usage and detection strategies for these models.
+<!-- I'm also interested in exploring the prevalence of AI-Generated content across different types of media, to better inform usage and detection strategies for these models. -->
 
+<!-- Prior to my PhD, I received my B.E in Computer Science and Engineering from [SSN College of Engineering](https://www.ssn.edu.in), Chennai, India. -->
+
+<!-- My research interests lie at the intersection of Vision & Language, with a focus on multi-modal generative models and 3D Computer Vision.  -->
+
+<!-- As a member of the [PIKE Research Group](https://pike.psu.edu), my research is focused on enhancing the linguistic grounding and domain-oriented reasoning capabilities of Multi-modal Large Language Models (MLLM) -->
 
 <!-- Recognizing the security risks these domain-specific Language Models pose such as fake news synthesis and copyright infringement, I'm also keen on exploring robust text watermarking strategies for downstream generation tasks. -->
 
