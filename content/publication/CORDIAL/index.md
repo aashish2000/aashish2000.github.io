@@ -5,7 +5,7 @@ title: 'CORDIAL: Can Multimodal Large Language Models effectively understand Coh
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "<b>Aashish Anantha Ramakrishnan</b>"
+  - Aashish Anantha Ramakrishnan
   - Aadarsh Anantha Ramakrishnan
   - Dongwon Lee
 
