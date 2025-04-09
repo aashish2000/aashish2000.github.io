@@ -6,7 +6,7 @@ title: 'From Intentions to Techniques: A Comprehensive Taxonomy and Challenges i
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Harsh Nishant Lalai
-  - "**Aashish Anantha Ramakrishnan**"
+  - "<b>Aashish Anantha Ramakrishnan</b>"
   - Raj Sanjay Shah
   - Dongwon Lee
 
