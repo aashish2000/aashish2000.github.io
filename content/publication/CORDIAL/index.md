@@ -5,7 +5,7 @@ title: 'CORDIAL: Can Multimodal Large Language Models effectively understand Coh
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Aashish Anantha Ramakrishnan
+  - "*Aashish Anantha Ramakrishnan*"
   - Aadarsh Anantha Ramakrishnan
   - Dongwon Lee
 
@@ -37,7 +37,7 @@ summary: We assess the competency of MLLMs in performing Multimodal Discourse An
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -45,7 +45,7 @@ links:
   url: https://www.arxiv.org/abs/2502.11300
 
 # url_pdf: ''
-url_code: 'https://github.com/aashish2000/CORDIAL'
+url_code: 'https://aashish2000.github.io/CORDIAL/'
 # url_dataset: https://zenodo.org/records/10974908
 # url_poster: ''
 # url_project: ''
