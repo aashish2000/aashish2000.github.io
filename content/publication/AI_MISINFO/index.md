@@ -6,7 +6,7 @@ title: 'Beyond speculation: Measuring the growing presence of LLM-generated text
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Dominik Macko
-  - "*Aashish Anantha Ramakrishnan*"
+  - "**Aashish Anantha Ramakrishnan**"
   - Jason Samuel Lucas
   - Robert Moro
   - Ivan Srba
