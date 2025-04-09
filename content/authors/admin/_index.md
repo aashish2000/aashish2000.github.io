@@ -120,7 +120,7 @@ highlight_name: true
 
 <div style="text-align: justify">
 
-Hello! I'm a fourth-year PhD Candidate at the [Penn State College of Information Sciences and Technology](https://ist.psu.edu), advised by [Prof. Dongwon Lee](https://pike.psu.edu/dongwon/). 
+Hello! I'm a fourth-year PhD Candidate (ABD) at the [Penn State College of Information Sciences and Technology](https://ist.psu.edu), advised by [Prof. Dongwon Lee](https://pike.psu.edu/dongwon/). 
 
 As a member of the [PIKE Research Group](https://pike.psu.edu), my research is focused on enhancing the Visio-linguistic grounding and reasoning capabilities of Multi-modal Large Language Models (MLLM). Particularly, I'm interested in understanding the challenges MLLMs face while interpreting cross-modal relationships in domain-specific generation tasks. I'm also exploring the prevalence of AI-generated content across online discourses such as news media, to better inform usage and detection strategies of these models.
 
